@@ -87,7 +87,7 @@ arepas_place_fran = [arepas_place]
 #print(new_installment.avaliable_menus(datetime.time(17)))
 
 
-#Businesses
+#BUSINESSES
 
 basta_fazoolin = Business("Basta Fazoolin", basta_fazoolin_fran)
 take_a_arepa = Business("Take a' Arepa", arepas_place_fran)
