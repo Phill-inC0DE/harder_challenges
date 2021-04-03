@@ -92,4 +92,4 @@ arepas_place_fran = [arepas_place]
 basta_fazoolin = Business("Basta Fazoolin", basta_fazoolin_fran)
 take_a_arepa = Business("Take a' Arepa", arepas_place_fran)
 
-#print(basta_fazoolin.franchises[0].menus[0])
+print(basta_fazoolin.franchises[0].menus[0].items)
